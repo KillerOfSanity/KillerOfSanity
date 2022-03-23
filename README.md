@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KillerOfSanity
 - 👀 I’m interested in mostly hacking ip's and other things
 - 🌱 I’m currently learning game developing
-- 💞️ I’m looking to collaborate on creating a watchdos type game that lets military personel hack people
+- 💞️ I’m looking to collaborate on creating a watchdogs type game that lets military personel hack objects, (for goverment usage only)
 - 📫 How to reach me email
 
 <!---
